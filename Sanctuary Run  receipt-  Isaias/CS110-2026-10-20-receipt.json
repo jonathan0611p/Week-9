@@ -1,0 +1,167 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:54cb0b18-c39d-4183-a649-ae2b01523c01:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "Isaias Gonzalez",
+  "playerId": "54cb0b18-c39d-4183-a649-ae2b01523c01",
+  "team": "Hello World",
+  "participation": "team",
+  "teamCrest": 0,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 4,
+      "prizeEligible": true
+    }
+  ],
+  "points": 21,
+  "dailyTarget": 10,
+  "additionalPoints": 11,
+  "awardIds": [
+    "5185572d-7b7c-4d32-aa34-4cc437b86623",
+    "78785e0f-965a-438a-8494-342bd65e6651",
+    "4f917aca-8a67-4164-8e07-331ec2888993",
+    "cf667f86-9b33-4669-a359-d0122127a11b",
+    "3ebc7f39-9ce5-4685-b847-4adfea91e860",
+    "870ffb60-4d7e-4836-abaa-4c624f84b5f0",
+    "ef528341-dd2e-4e1f-a67c-8d3a7ad8645e",
+    "738a6990-95c2-471c-8b65-522a02f083de",
+    "aa2166d0-10b6-48c5-b947-93db0a6bac80",
+    "981e5cb7-79c2-4dbc-89f5-78af39682e23",
+    "5e42099a-869c-4715-95be-f51e24d3fd10",
+    "fd6edeb7-58e9-4917-a8ef-b9778dcde914",
+    "20808989-63c1-4615-8ab4-c4a4c1ecc3f9",
+    "10d51b13-6b58-460a-8abc-9dcaa6cc5f54",
+    "80eba842-ed7e-4461-b535-0090f182d936",
+    "f599b8bb-ed0c-429a-a802-3b8d008e824e"
+  ],
+  "encounters": [
+    {
+      "title": "Room to Breathe",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:52:05.735Z"
+    },
+    {
+      "title": "A Readable Message",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:52:27.952Z"
+    },
+    {
+      "title": "The Hidden Signal",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:54:15.631Z"
+    },
+    {
+      "title": "The Supply Slots",
+      "subject": "css",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:59:26.978Z"
+    },
+    {
+      "title": "The Scattered Controls",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:00:58.285Z"
+    },
+    {
+      "title": "The Shield Frame",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:02:43.594Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:02:54.412Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:03:17.230Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:03:30.431Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:03:47.459Z"
+    },
+    {
+      "title": "The Supply Function",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:04:16.383Z"
+    },
+    {
+      "title": "The Spark Engine",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:04:40.475Z"
+    },
+    {
+      "title": "The Two States",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:05:04.016Z"
+    },
+    {
+      "title": "The Beacon Switch",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:05:29.699Z"
+    },
+    {
+      "title": "The Connected Controls",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:09:02.034Z"
+    },
+    {
+      "title": "The Open Gate",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:10:07.057Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:10:57.973Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "35429da49e3138ce800da14f60fb8e6b4f778f77f74853aabc8e1f60e1e5a339"
+}
