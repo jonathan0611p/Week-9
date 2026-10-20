@@ -1,0 +1,87 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:c954237a-e4c3-4631-a4d2-3294c9e5ccc7:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "Jonathan's Ps",
+  "playerId": "c954237a-e4c3-4631-a4d2-3294c9e5ccc7",
+  "team": "Hello World",
+  "participation": "team",
+  "teamCrest": 0,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 4,
+      "prizeEligible": true
+    }
+  ],
+  "points": 11,
+  "dailyTarget": 10,
+  "additionalPoints": 1,
+  "awardIds": [
+    "5e15d790-58f1-400f-9caf-43bb5be1ec31",
+    "a975726a-9b73-4a02-a3b7-8428129378ed",
+    "7cf8e0ab-c80d-4aa3-aa4d-a9ba4c555652",
+    "0cece233-8677-4a08-8b19-e1054e7d125f",
+    "051572ff-b249-41c6-a6e0-23ab4cf06234",
+    "178f31a3-2129-4360-9924-4acee7541c06"
+  ],
+  "encounters": [
+    {
+      "title": "The Supply Function",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:51:28.827Z"
+    },
+    {
+      "title": "Room to Breathe",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:53:21.803Z"
+    },
+    {
+      "title": "The Spark Engine",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:54:15.256Z"
+    },
+    {
+      "title": "The Connected Controls",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:58:48.500Z"
+    },
+    {
+      "title": "The Beacon Switch",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:05:02.467Z"
+    },
+    {
+      "title": "The Supply Slots",
+      "subject": "css",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:06:46.317Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:10:51.049Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "caaff792ad49c8206a5565eaccb1d7811577a9d0ec54be6b2ae7189285e82418"
+}
